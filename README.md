@@ -12,7 +12,7 @@ Uvicorn — ASGI server
 
 ⚙️ Installation & Setup
 1. Clone the repository
-bashgit clone https://github.com/yourusername/fastapi-patients.git
+bashgit clone https://github.com/divyanshubhayani0712/fastapi-patients.git
 cd fastapi-patients
 2. Create virtual environment
 bashpython -m venv myenv
